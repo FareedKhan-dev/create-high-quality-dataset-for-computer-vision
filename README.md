@@ -1,4 +1,4 @@
-# Computer Vision Project: Generating Realistic Datasets with ChatGPT
+# Computer Vision Project: Generating Realistic Datasets with Few Clicks
 
 Computer vision projects often require high-quality datasets to train robust models. In this blog post, we'll guide you through a simple process of generating a diverse and realistic dataset using a one-click approach. By leveraging the power of ChatGPT and a realistic vision image generation model, you can easily create a dataset tailored to your specific needs.
 
