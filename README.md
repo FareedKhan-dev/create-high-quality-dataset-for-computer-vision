@@ -2,8 +2,6 @@
 
 Computer vision projects often require high-quality datasets to train robust models. In this blog post, we'll guide you through a simple process of generating a diverse and realistic dataset using a one-click approach. By leveraging the power of ChatGPT and a realistic vision image generation model, you can easily create a dataset tailored to your specific needs.
 
-The code for this blog can be found at the following GitHub repository: [GitHub link](GitHUB link)
-
 ## Step 1: Generating Realistic Image Prompts Using ChatGPT
 
 In this initial step, we use the below ChatGPT free prompt to dynamically generate prompts for realistic-vision images. To tailor the prompts to your specific needs, you can adjust the parameters in the provided Python code.
